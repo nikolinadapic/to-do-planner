@@ -1,0 +1,15 @@
+.emptySpace{
+    margin-top: 8em;
+}
+.PostTitle2{
+    margin-top: 1.5em;
+    margin-left: 7em;
+    font-size: 1.5em;
+    color:white;
+    text-align: center;
+}
+@media screen and (max-width: 320px){
+    .PostTitle2{
+        margin-left: 3em;
+    }
+}

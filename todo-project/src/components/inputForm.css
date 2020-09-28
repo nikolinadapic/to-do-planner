@@ -1,0 +1,71 @@
+.form-control{
+    width:20em;
+}
+.mainFormContainer{
+    background-color: black;
+    margin-top: 5em;
+    width: 100%;
+}
+.form-group {
+    padding:3em;
+    padding-bottom: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+}
+.form-control{
+    color: #47748b;
+}
+.col-form-label{
+    color: #07d9a4;
+    height: 3em;
+}
+@media (max-width: 320px) {
+    .row{
+      margin-left: -15%;
+      
+    }
+    .form-group >.btn-group {
+        margin-left: 145%;
+
+    }
+    .btn-group > .btn{
+        width: 15em;
+    }
+
+    .form-control{
+        width: 15em;
+    }
+    .row > .addUpdate{
+        margin-left: 16.5em;
+    }
+    .col-10 > .myBtn{
+        margin-left: 15em;
+    }
+   
+}
+ .col-10 >.bootstrap-datetimepicker-widget {
+    margin-left: 100%;
+}
+.btn{
+    width:3em;
+    height: 2em;
+}
+.col-10 > .btn .myBtn{
+    width: 5em;
+    height: 3em;
+    margin-left: 8em;
+    
+}
+.btn-group{
+    margin-left: 26%;
+    margin-right: auto;
+    width: 50%;
+    height: 5em;
+    
+}
+.addTaskTitle{
+    
+    font-size: 1.5em;
+    color: #07d9a4 ;
+}

@@ -1,0 +1,64 @@
+.form-control{
+    width:20em;
+}
+.form-group {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.myGroup{
+    padding: 3em;
+}
+.login{
+    margin-top: 0;
+    font-weight: bold;
+    height: 100vh;
+    background-color: transparent;
+}
+.form-control{
+    color: #47748b;
+    margin-left: 10em;
+}
+.title, .custom-control-label{
+    color: #07d9a4; 
+    padding-top: 1em;
+}
+.col-2{
+    margin-left: 17.5em;
+}
+.col-form-label{
+    color: #07d9a4;
+    height: 3em;
+}
+.rememberMe{
+    font-size: 1.5em;
+    margin-right: 1em;
+}
+
+@media (max-width: 360px) {
+    
+    .form-group {
+        padding: 1em;
+        margin-left: -9em;
+    }
+
+    .form-control{
+        width: 15em;
+    }
+  .label{
+      margin-left:15.5em;
+  }
+}
+ .dropdown-menu {
+    width: 15em;
+    margin-left: 1em;
+}
+.btn{
+    width:3em;
+    height: 2em;
+}
+.myBtn{
+    width: 5em;
+    height: 3em;
+}

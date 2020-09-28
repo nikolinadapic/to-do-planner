@@ -1,0 +1,15 @@
+.w3-green{
+    color:#fff!important;
+    background-color:#059470!important;
+    height: 1.5em;
+    /*width:100%;*/
+    border-radius: 2em;
+    padding:0;
+}
+.w3-border{
+    margin-top: 1.5em;
+    background-color: grey;
+    margin-left: -0.55em;
+    border-radius: 2em;
+
+}

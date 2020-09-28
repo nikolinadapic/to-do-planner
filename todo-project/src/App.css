@@ -1,0 +1,8 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+.App {
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
